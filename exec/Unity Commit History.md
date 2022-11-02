@@ -2,7 +2,7 @@
 
 ## Unity Commit History
 
-![unity_branch6](.\image\unity_branch6.png)
+![unity_branch6](./image/unity_branch6.png)
 
 ![unity_branch2](.\image\unity_branch5.png)
 
